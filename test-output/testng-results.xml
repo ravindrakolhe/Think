@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76747" started-at="2020-10-02T07:10:32Z" finished-at="2020-10-02T07:11:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76747" started-at="2020-10-02T07:10:32Z" finished-at="2020-10-02T07:11:49Z">
+      <class name="thinkitiveassigenment.tests.ThinkitiveAssigenment2">
+        <test-method status="PASS" signature="setup()[pri:0, instance:thinkitiveassigenment.tests.ThinkitiveAssigenment2@32d992b2]" name="setup" is-config="true" duration-ms="38970" started-at="2020-10-02T12:40:32Z" finished-at="2020-10-02T12:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signInPage()[pri:1, instance:thinkitiveassigenment.tests.ThinkitiveAssigenment2@32d992b2]" name="signInPage" duration-ms="27443" started-at="2020-10-02T12:41:11Z" finished-at="2020-10-02T12:41:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPage -->
+        <test-method status="PASS" signature="closeAll()[pri:0, instance:thinkitiveassigenment.tests.ThinkitiveAssigenment2@32d992b2]" name="closeAll" is-config="true" duration-ms="10174" started-at="2020-10-02T12:41:39Z" finished-at="2020-10-02T12:41:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAll -->
+      </class> <!-- thinkitiveassigenment.tests.ThinkitiveAssigenment2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
