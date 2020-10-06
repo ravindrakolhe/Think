@@ -41,8 +41,8 @@ public class ThinkitiveAssigenment2 {
 	public void signInPage() throws InterruptedException {
 		driver.manage().timeouts().pageLoadTimeout(40, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		signin.getEnterEmailMobileNumber().sendKeys("ravindraxyz@gmail.com");
-		signin.getEnterPassword().sendKeys("xyz123456");
+		signin.getEnterEmailMobileNumber().sendKeys("ravindra484@gmail.com");
+		signin.getEnterPassword().sendKeys("sai123456");
 		signin.getLoginBtn().click();
 		Thread.sleep(4000);
 		flipcart.enterTextOnSearch().sendKeys("iphone");
